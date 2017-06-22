@@ -3,7 +3,7 @@
 This project is the collection of all those programs which includes implementation of all the data structures. It implements all the operations of every data structure like insertion and deletion.
 
 # Important Details:
-• Project review file explain the summary of project. </br>
+• project review.docx file explain the summary of project. </br>
 • Choice is entered in main file to see any program of data structure. </br> 
 • header.h has the declaration of all the functions. </br>
 • Data Structure Array in array.c </br>
